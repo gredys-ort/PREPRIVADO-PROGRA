@@ -6,7 +6,7 @@ package com.mycompany.maxiymini;
 
 /**
  *
- * @author MarjorieMoran
+ * @author Gredys Morales
  */
 public class MaxiyMini {
     public static void main(String[] args) {

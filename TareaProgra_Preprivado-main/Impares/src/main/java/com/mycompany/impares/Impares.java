@@ -6,7 +6,7 @@ package com.mycompany.impares;
 
 /**
  *
- * @author MarjorieMoran
+ * @author Gredys Morales
  */
 public class Impares {
 

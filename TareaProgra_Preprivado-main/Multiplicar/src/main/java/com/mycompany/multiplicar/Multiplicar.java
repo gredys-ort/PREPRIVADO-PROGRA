@@ -6,7 +6,7 @@ package com.mycompany.multiplicar;
 
 /**
  *
- * @author MarjorieMoran
+ * @author Gredys Morales
  */
 import java.util.Scanner;
 

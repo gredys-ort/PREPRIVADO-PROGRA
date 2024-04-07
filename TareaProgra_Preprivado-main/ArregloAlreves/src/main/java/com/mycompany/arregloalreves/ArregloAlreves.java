@@ -6,7 +6,7 @@ package com.mycompany.arregloalreves;
 
 /**
  *
- * @author MarjorieMoran
+ * @author Gredys Morales
  */
 public class ArregloAlreves {
     public static void main(String[] args) {

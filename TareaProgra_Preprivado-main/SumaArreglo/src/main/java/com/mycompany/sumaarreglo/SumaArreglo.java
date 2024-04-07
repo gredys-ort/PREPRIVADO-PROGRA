@@ -6,7 +6,7 @@ package com.mycompany.sumaarreglo;
 
 /**
  *
- * @author MarjorieMoran
+ * @author Gredys Morales
  */
 public class SumaArreglo {
     public static void main(String[] args) {
